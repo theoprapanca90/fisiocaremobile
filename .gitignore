@@ -1,4 +1,10 @@
+# Flutter
 .dart_tool/
 build/
 .pub/
 .packages
+pubspec.lock
+
+# OS
+.DS_Store
+Thumbs.db
